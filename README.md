@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Information Systems Engineering Student</h1>
-  <p><b>Third-Year Undergraduate | Systems Architecture | Automation</b></p>
+  <p><b>Third-Year Undergraduate | Systems Architecture</b></p>
 </div>
 
 <hr />
